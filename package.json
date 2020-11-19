@@ -1,8 +1,8 @@
 {
-  "name": "frontend",
-  "version": "0.0.1",
+  "name": "backend",
+  "version": "1.0.0",
   "description": "",
-  "author": "",
+  "author": "Yiiu <yu.gintoki@gmail.com>",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
